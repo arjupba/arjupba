@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning sonar db
 - 💞️ I’m looking to collaborate on any project that helps mankind.
 - 📫 Reach me at arjupba@gmail.com
-- 📰 Click [here](https://stackoverflow.com/users/5349917/arjun-g-perambra) to go to my StackOverflow profile.
+- 📰 Click [here](https://stackoverflow.com/users/5349917/arjun-g?tab=profile) to go to my StackOverflow profile.
 - 🚶🏽‍♂️ [Here](https://www.instagram.com/arjupba/) is my instagram page.
 - 🌎 Click [here](https://arjupba.github.io/) for more.
 
