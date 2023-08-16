@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun
 - 👀 I’m interested in open sourcing
-- 🌱 I’m currently learning sonar db
+- 🌱 I’m currently learning aws eks
 - 💞️ I’m looking to collaborate on any project that helps mankind.
 - 📫 Reach me at arjupba@gmail.com
 - 📰 Click [here](https://stackoverflow.com/users/5349917/arjun-g?tab=profile) to go to my StackOverflow profile.
